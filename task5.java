@@ -5,7 +5,7 @@ public class task5 {
   public static void main(String args[]) {
    
     Scanner in = new Scanner(System.in);      
-    double temperatue;
+    float temperatue;
     System.out.println("Enter temperatue in Fahrenheit");
     temperatue = in.nextInt();
  
