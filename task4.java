@@ -23,7 +23,4 @@ public class Perfect
             System.out.println("Given number is not Perfect");
         }    
     }
-    int divisor(int x)
-    {
-       return x;
-    }
+}
