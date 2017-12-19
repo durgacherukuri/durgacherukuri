@@ -7,7 +7,7 @@ package task2;
 	        int n=sc.nextInt();
 	        /*System.out.println("enter number y");
 	        int y=sc.nextInt();*/
-	         int mul=n>>2;
+	         int mul=n<<2;
 	        System.out.println("multiplication:" +mul);
 	     }
 	}
